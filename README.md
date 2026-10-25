@@ -1,5 +1,3 @@
-[README (3).md](https://github.com/user-attachments/files/33918244/README.3.md)
-
 <div align="center">
   <img src="assets/violet-header.svg" width="100%" alt="Nafia Sulthana — Backend Engineering, APIs, Applied AI/ML" />
 
@@ -11,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3400&pause=1100&color=C084FC&center=true&vCenter=true&width=800&lines=Software+Engineer+in+the+Making;Backend+%26+API+Development;Applied+AI%2FML+%7C+Data+%7C+Intelligent+Systems" alt="Animated introduction" />
 </div>
 
-<img src="assets/section-01.svg" width="100%" alt="About Me" />
+## About Me
 
 I'm **Nafia Sulthana**, a Computer Science & Engineering student at **Chennai Institute of Technology**, graduating in **2027**. I'm based in Chennai, India.
 
@@ -22,7 +20,7 @@ I enjoy working on the parts of software that make everything else possible: wel
 - **Problem solving:** 150+ LeetCode problems solved · [Visit my profile](https://leetcode.com/u/HPnqd06kIG/)
 - **Open to:** Software engineering · Backend development · AI/ML opportunities
 
-<img src="assets/section-02.svg" width="100%" alt="Featured Projects" />
+## Featured Projects
 
 ### 01 · [AMLSentinel — Intelligent AML Investigation Platform](https://github.com/Nafiasulthana/AMLproject)
 
@@ -62,7 +60,7 @@ A machine learning study focused on spotting customers likely to leave and inter
 - **Reported XGBoost results:** 87.4% accuracy · 85.8% F1-score · 0.91 ROC-AUC.
 - Related research work includes sales forecasting and dynamic pricing.
 
-<img src="assets/section-03.svg" width="100%" alt="Tech Stack" />
+## Technical Skills
 
 | Focus | Tools |
 |:--|:--|
@@ -74,12 +72,12 @@ A machine learning study focused on spotting customers likely to leave and inter
 | **Testing & Tools** | Git · GitHub · Postman · Selenium · JaCoCo |
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,react,fastapi,postgres,mysql,html,css,git,github,tensorflow&theme=dark&perline=7" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,ts,react,fastapi,postgres,mysql,html,css,git,github,tensorflow&theme=dark&perline=7" alt="Technology icons" />
 </div>
 
 **Computer science foundations:** Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks.
 
-<img src="assets/section-04.svg" width="100%" alt="Experience" />
+## Experience
 
 **Research Intern · Chennai Institute of Technology**  
 *May–July 2025*
@@ -91,7 +89,7 @@ Contributed to research work on customer churn prediction and sales forecasting 
 
 Worked with software testing fundamentals, JaCoCo coverage reports, test design, defect tracking and ISTQB Foundation Level v4.0 coursework.
 
-<img src="assets/section-05.svg" width="100%" alt="Achievements and Certifications" />
+## Achievements & Certifications
 
 - 🥇 **Finalist**, All India AI Hackathon
 - 🥉 **Quarter-finalist**, IEEE EPICS Competition — water-filtration project
@@ -100,7 +98,7 @@ Worked with software testing fundamentals, JaCoCo coverage reports, test design,
 - 🌐 **Cisco Networking Academy:** Introduction to Data Science
 - 🧠 **Cisco Networking Academy:** Introduction to Modern AI
 
-<img src="assets/section-06.svg" width="100%" alt="GitHub Activity" />
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nafiasulthana&show_icons=true&hide_border=true&bg_color=0B0814&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7" height="170" alt="GitHub statistics" />
@@ -110,16 +108,16 @@ Worked with software testing fundamentals, JaCoCo coverage reports, test design,
 ### The violet contribution snake 🐍
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nafiasulthana/Nafiasulthana/output/github-snake-violet-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nafiasulthana/Nafiasulthana/output/github-snake-violet-light.svg" />
-  <img alt="Violet animated snake moving across GitHub contributions" src="https://raw.githubusercontent.com/Nafiasulthana/Nafiasulthana/output/github-snake-violet-dark.svg" width="100%" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nafiasulthana/Nafiasulthana/output/github-snake-violet-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nafiasulthana/Nafiasulthana/output/github-snake-violet-light.svg" />
+    <img alt="Violet animated snake moving across GitHub contributions" src="https://raw.githubusercontent.com/Nafiasulthana/Nafiasulthana/output/github-snake-violet-dark.svg" width="100%" />
+  </picture>
 </div>
 
 <sub>The snake appears after the included GitHub Actions workflow has run successfully.</sub>
 
-<img src="assets/section-07.svg" width="100%" alt="Let's Connect" />
+## Let's Connect
 
 I'm interested in work where thoughtful engineering meets real-world impact. If you're working on backend systems, APIs, full-stack products or applied AI, I'd love to connect.
 
